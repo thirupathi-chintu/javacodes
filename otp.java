@@ -34,3 +34,4 @@ public class otp
 		System.out.println(OTP(length));
 	}
 }
+
